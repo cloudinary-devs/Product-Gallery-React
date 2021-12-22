@@ -7,7 +7,7 @@ const cloudName = "demo"; // replace with your own cloud name
 
 // Remove the comments from the code below to add
 // additional functionality.
-// Note that these are only a few examples, to see
+// Note that these are only a few examples, for
 // the full list of possible parameters that you
 // can add see:
 //   https://cloudinary.com/documentation/product_gallery_reference
