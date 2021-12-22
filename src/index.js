@@ -9,7 +9,7 @@ const cloudName = "demo"; // replace with your own cloud name
 // additional functionality.
 // Note that these are only a few examples, for
 // the full list of possible parameters that you
-// can add see:
+// can add, see:
 //   https://cloudinary.com/documentation/product_gallery_reference
 
 const myGallery = cloudinary.galleryWidget({
